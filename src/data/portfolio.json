@@ -1,0 +1,85 @@
+{
+  "personalInfo": {
+    "name": "Vikash kumar",
+    "tagline": "Php Developer",
+    "description": "I build professional, dynamic, and beautiful web applications. With a passion for clean code and intuitive design, I bring ideas to life on the internet.",
+    "email": "vikashchoudhary15616@gmail.com",
+    "github": "https://github.com/yourusername",
+    "linkedin": "https://linkedin.com/in/yourusername",
+    "twitter": "https://twitter.com/yourusername"
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        "React",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "Next.js"
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "REST APIs"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Figma",
+        "Postman"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "A full-featured e-commerce platform with cart, checkout, and admin dashboard.",
+      "image": "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&q=80",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "githubUrl": "#",
+      "liveUrl": "#"
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "A beautiful, drag-and-drop task management tool for agile teams.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+      "technologies": [
+        "React",
+        "Firebase",
+        "Tailwind"
+      ],
+      "githubUrl": "#",
+      "liveUrl": "#"
+    },
+    {
+      "id": 3,
+      "title": "Weather Dashboard",
+      "description": "Real-time weather dashboard with interactive maps and forecast charts.",
+      "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800&q=80",
+      "technologies": [
+        "JavaScript",
+        "HTML/CSS",
+        "Weather API"
+      ],
+      "githubUrl": "#",
+      "liveUrl": "#"
+    }
+  ]
+}
